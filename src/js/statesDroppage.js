@@ -12,7 +12,7 @@ req.onreadystatechange = function(){
             option.text = jsn[x].name;
             option.value = jsn[x].abberviation;
             sel.add(option);
-            
+
 
         }
 
