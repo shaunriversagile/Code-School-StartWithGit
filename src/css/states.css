@@ -20,10 +20,6 @@ table.center {
     margin-right:15%;
 }
 
-.center {
-    text-align:center;
-}
-
 .button-styles{
     background-color: black;
     color: gold;
@@ -36,4 +32,12 @@ table.center {
     cursor: pointer;
     border: none;
     margin-top: 20px;
+}
+
+.full-row {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin: 10px;
+
 }
