@@ -19,25 +19,3 @@ table.center {
     margin-left:30%;
     margin-right:15%;
 }
-
-.button-styles{
-    background-color: black;
-    color: gold;
-    margin:auto;
-    height:30px;
-    width:90px;
-    margin-bottom: 12px;
-    border-radius: 10px;
-    font-size: 20px;
-    cursor: pointer;
-    border: none;
-    margin-top: 20px;
-}
-
-.full-row {
-    display: inline-block;
-    width: 100%;
-    text-align: center;
-    margin: 10px;
-
-}

@@ -1,0 +1,21 @@
+.button-styles{
+    background-color: black;
+    color: gold;
+    margin:auto;
+    height:30px;
+    width:111px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+    font-size: 10px;
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+}
+
+.full-row {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin: 10px;
+
+}
