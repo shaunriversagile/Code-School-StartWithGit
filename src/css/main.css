@@ -211,10 +211,6 @@ textarea {
         text-shadow: none !important;
     }
 
-    a,
-    a:visited {
-        text-decoration: underline;
-    }
 
     a[href]:after {
         content: " (" attr(href) ")";
@@ -269,4 +265,6 @@ textarea {
     h3 {
         page-break-after: avoid;
     }
-}
+    }
+
+
